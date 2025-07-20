@@ -2,10 +2,13 @@ html {
   padding: 0;
   margin: 0;
   height: 100%;
-
 }
 
+body{
+  margin: 0;
+}
 .page-container {
+  margin: 0;
   position: relative;
   height: 100vh;
   overflow-y: scroll;
@@ -13,6 +16,8 @@ html {
 }
 
 .background {
+  overflow-y: hidden;
+  margin: 0;
   position: absolute;
   top: 0;
   left: 0;
@@ -25,10 +30,6 @@ html {
   z-index: -1;
 }
 
-.wrap_body {
-  position: relative;
-  z-index: 1;
-}
 
 h1{
   color: white;
