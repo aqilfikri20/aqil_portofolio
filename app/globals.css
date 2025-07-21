@@ -7,6 +7,7 @@ html {
 body{
   margin: 0;
 }
+
 .page-container {
   margin: 0;
   position: relative;
@@ -22,8 +23,8 @@ body{
   top: 0;
   left: 0;
   width: 100%;
-  height: 500vh; /* Panjang sesuai total section */
-  background-image: url('/background.png');
+  height: 600vh; /* Panjang sesuai total section */
+  background-image: url('/background3.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -52,4 +53,9 @@ section {
   justify-content: center;
   align-items: center;
   scroll-snap-align: start;
+}
+
+.navbar{
+  z-index: 1000;
+  position:fixed;
 }

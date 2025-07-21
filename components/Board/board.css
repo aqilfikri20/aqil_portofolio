@@ -1,7 +1,7 @@
 .board{
     margin: 0;
-    background-image: url('/board.png');
-    width: 90%;
+    background: url('/board.png') center/cover;
+    min-width: 90%;
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;

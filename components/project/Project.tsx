@@ -1,11 +1,11 @@
 import Board from "../Board/Board";
 
-export default function About(){
+export default function Project(){
     return(
         <>
-            <Board>
+            <Board >
                 <div className="board-content"> 
-                    <p>Board about</p>
+                    <p>Board project</p>
                 </div>
             </Board>
         </>
