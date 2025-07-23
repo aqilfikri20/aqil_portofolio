@@ -1,9 +1,13 @@
 .board{
     margin: 0;
     background: url('/board.png') center/cover;
-    min-width: 90%;
+    width: 90vw;
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
 }

@@ -1,0 +1,33 @@
+
+.wrap-edu{
+    margin: 0;
+    font-family: "Merienda", cursive;
+    width: 60vw;
+    height: 77vh;
+    color: white;
+    font-size: 15px;
+}
+
+.head-title{
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.title{
+    margin-top: 10px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+    margin: 0;
+    font-size: 16px;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+.wrap-edu p{
+    margin: 0;
+}
+
+.wrap-edu ul{
+    margin-top: 0;
+    margin-bottom: 5px;
+}

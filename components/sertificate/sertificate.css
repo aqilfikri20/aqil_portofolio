@@ -1,0 +1,18 @@
+.wrap-sertificate{
+    margin: 5vh 0 0 0 ;
+    font-family: "Merienda", cursive;
+    width: 60vw;
+    height: 77vh;
+    color: white;
+    font-size: 20px;
+}
+
+.wrap-sertificate li{
+    margin-top: 10px; 
+}
+
+.wrap-sertificate a{
+    font-size:20px;
+    color: rgb(188, 224, 255);
+}
+

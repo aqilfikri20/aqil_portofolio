@@ -5,8 +5,6 @@ export default function Navbar(){
     return(
     <div className="navbar">
     <nav>
-      <Link href="#" className="nav-item active">Beranda</Link>
-      <span className="divider"></span>
       <Link href="#about" className="nav-item">Tentang Saya</Link>
       <span className="divider"></span>
       <Link href="#edu" className="nav-item">Riwayat Pendidikan</Link>
