@@ -30,6 +30,18 @@ export default function Project() {
       img: "project3.png",
       title: "Website Spesifikasi Komputer",
       desc: "Web aplikasi dengan React yang menerapkan reusable component, stateful component, controlled component, API. (Klik card ini untuk membuka website)."
+    },
+    {
+      link: "https://web-perpustakaan-brown.vercel.app/",
+      img: "project4.png",
+      title: "Website Perpustakaan Malikussaleh",
+      desc: "Web aplikasi yang dibangun menggunakan Nextjs dan dihubungkan dengan Content Management System Strapi."
+    },
+    {
+      link: "https://laptop-app.southeastasia.cloudapp.azure.com/",
+      img: "project5.png",
+      title: "Website Spesifikasi Laptop + SPK",
+      desc: "Web aplikasi yang dibangun menggunakan framework Flask dan dengan fitur sistem Pengambil Keputusan."
     }
   ];
 
