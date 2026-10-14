@@ -3,7 +3,7 @@
     font-family: "Merienda", cursive;
     width: 60%;
     margin-right: 5%;
-    height: 60vh;
+    height: 55vh;
     font-size: clamp(1rem, 2.5vw, 1.5rem);
     color: white;
 }

@@ -1,21 +1,23 @@
 .skill-content{
-    font-family: "Merienda", cursive;
     display: flex;
     flex-direction: column;
-    height: 77vh;
-    width: 70vw;
-    font-size: 20px;
+    justify-content: center;
+    font-family: "Merienda", cursive;
+    height: 70vh;
+    width: 60vw;
+    font-size: 22px;
 }
 
 .title-skill{
     font-size: 30px;
     text-align: center;
+    margin-bottom: 20px;
 }
 
-.sub-title{
+.skill-content.sub-title{
     margin: 0;
     font-size: 26px;
-    border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.789);
 }
 
 .wrap-skill1{

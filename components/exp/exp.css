@@ -1,9 +1,12 @@
 
 .wrap-exp{
-    margin: 5vh 0 0 0 ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 ;
     font-family: "Merienda", cursive;
-    width: 60vw;
-    height: 77vh;
+    width: 55vw;
+    height: 70vh;
     color: white;
     font-size: 20px;
 }
@@ -11,13 +14,13 @@
 .wrap-exp .head-title{
     text-align: center;
     font-size: 26px;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
-.title{
+.wrap-exp .title{
     margin-top: 10px;
     border-bottom: 2px solid rgba(255, 255, 255, 0.3);
     margin: 0;
-    font-size: 20px;
+    font-size: 25px;
     display: flex;
     flex-direction:row;
     justify-content: space-between;
@@ -28,5 +31,5 @@
 }
 
 .wrap-exp ul{
-    margin-top: 0;
+    margin-bottom: 2;
 }

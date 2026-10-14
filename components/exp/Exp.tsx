@@ -6,7 +6,7 @@ export default function Exp(){
         <>
             <Board>
                     <div className="wrap-exp">
-                        <p className="head-title">Pengalaman Organisasi</p>
+                        <p className="head-title">PENGALAMAN ORGANISASI</p>
                         <div className="content-exp"> 
                             <div className="title">
                                 <p>Ikatan Mahasiswa Asahan (IMASA)</p>
@@ -19,7 +19,7 @@ export default function Exp(){
                             </ul>
                         </div>
 
-                    <div className="content-exp">
+                        <div className="content-exp">
                         <div className="title">
                             <p>Informatic Study Platform (ISP)</p>
                             <p>Maret 2024-sekarang</p>
@@ -30,6 +30,19 @@ export default function Exp(){
                                 <li>Mempelajari Pengembangan dan Desain Antarmuka Website</li>
                                 <li>Mempelajari Tools dan Framework Frontend</li>
                                 <li>Membuat Project Bersama</li>
+                            </ul>
+                        </div>
+                        </div>
+
+                                                <div className="content-exp">
+                        <div className="title">
+                            <p>TBM. RANGKANG PUSTAKA</p>
+                            <p>APril 2024-September 2025</p>
+                        </div>
+                        <div>
+                            <ul>
+                                <p>Anggota/Tutor</p>
+                                <li>Relawan Mengajarkan Matematika dan Dasar Komputer Kepada Anak-anak</li>
                             </ul>
                         </div>
                         </div>

@@ -6,7 +6,7 @@ export default function Sertificate(){
         <>
             <Board>
                 <div className="wrap-sertificate"> 
-                    <p className="head-title">Pelatihan dan Sertifikat</p>
+                    <p className="head-title">PELATIHAN DAN SERTIFIKAT</p>
                     <ul>
                         <li>Setifikat  Kelas Belajar Dasar Pemrograman Web - Dicoding Indonesia<br/>
                         Tanggal Penerbitan : 19 Mei 2024 <br/>

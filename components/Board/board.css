@@ -1,13 +1,14 @@
-.board{
-    margin: 0;
-    background: url('/board.png') center/cover;
-    width: 90vw;
-    height: 100vh;
+.board {
+    position: relative;
+    isolation: isolate;
+    background:url(/board.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+   height: 100%;
+    width:87.4vw;
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: row;
+
 }

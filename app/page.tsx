@@ -4,6 +4,7 @@ import Exp from "@/components/exp/Exp";
 import Project from "@/components/project/Project";
 import Sertificate from "@/components/sertificate/Sertificate";
 import Skill from "@/components/skill/Skill";
+import FrontBoard from "@/components/front-board/front-board";
 
 
 export default function Home() {

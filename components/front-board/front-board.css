@@ -1,0 +1,17 @@
+
+.wrap-front-board {
+  position: relative;
+z-index: 10;
+  width: 80px;
+  /* Atur posisi horizontal */
+  top:-2.5%;
+    right: 1%;
+    transform: translateX(90%);
+  background-color: rgba(0, 0, 0, 0.677);
+}
+
+.front-board {
+  position: absolute;
+  z-index: 10;
+    width: 67px;
+}
