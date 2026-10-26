@@ -1,0 +1,20 @@
+.board-project {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    isolation: isolate;
+    background:url(/board-project.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   width: 1600px;
+    height:990px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.board-project.board-project-section {
+    flex: 0 0 1600px;
+    scroll-snap-align: start;
+}

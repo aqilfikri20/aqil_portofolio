@@ -17,13 +17,11 @@
     margin-bottom: 30px;
 }
 .wrap-exp .title{
-    margin-top: 10px;
     border-bottom: 2px solid rgba(255, 255, 255, 0.3);
     margin: 0;
     font-size: 25px;
     display: flex;
     flex-direction:row;
-    justify-content: space-between;
 }
 
 .wrap-exp p{
@@ -31,5 +29,6 @@
 }
 
 .wrap-exp ul{
-    margin-bottom: 2;
+    margin-top: 0;
+    margin-bottom: 20px;
 }

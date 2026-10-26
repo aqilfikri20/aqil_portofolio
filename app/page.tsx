@@ -16,8 +16,8 @@ export default function Home() {
         <section id="edu"><Edu /></section>
         <section id="exp"><Exp /></section>
         <section id="skill"><Skill /></section>
+        <section id="project"><Project /></section>
         <section id="sertificate"><Sertificate /></section>
-        <section id="project"><Project/></section>
       </div>
     </div>
   );
